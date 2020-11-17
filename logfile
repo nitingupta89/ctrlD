@@ -1,0 +1,12 @@
+2020-11-17 14:37:29.540 IST [13439] LOG:  starting PostgreSQL 12.4 on x86_64-apple-darwin18.7.0, compiled by Apple clang version 11.0.0 (clang-1100.0.33.17), 64-bit
+2020-11-17 14:37:29.542 IST [13439] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2020-11-17 14:37:29.542 IST [13439] LOG:  listening on IPv6 address "::1", port 5432
+2020-11-17 14:37:29.543 IST [13439] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2020-11-17 14:37:29.570 IST [13440] LOG:  database system was interrupted; last known up at 2020-08-22 17:49:15 IST
+2020-11-17 14:37:29.987 IST [13440] LOG:  database system was not properly shut down; automatic recovery in progress
+2020-11-17 14:37:29.992 IST [13440] LOG:  redo starts at 0/2190278
+2020-11-17 14:37:29.992 IST [13440] LOG:  invalid record length at 0/2190360: wanted 24, got 0
+2020-11-17 14:37:29.992 IST [13440] LOG:  redo done at 0/2190328
+2020-11-17 14:37:30.004 IST [13439] LOG:  database system is ready to accept connections
+2020-11-17 14:37:34.775 IST [13464] FATAL:  database "ctrlD" does not exist
+2020-11-17 14:39:42.347 IST [13509] FATAL:  database "ctrlD" does not exist
