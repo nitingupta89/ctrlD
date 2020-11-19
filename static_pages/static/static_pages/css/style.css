@@ -1,0 +1,228 @@
+.backCol{
+	background-image: radial-gradient(#0D78FF, #005ED4);
+}
+
+.backw{
+	background:url('/static/static_pages/img/Gradient.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+	    margin-bottom: -64px;
+}
+.padto80{
+	padding: 80px 0px;
+}
+.pad123{
+	padding: 123px 0px 20px 0px;
+}
+.bordRigt{
+	border-right: 1px solid #0000001c;
+}
+/*.sloj{
+	margin-left: 30px;
+}*/
+.sloj h6{
+	font-size: 24px;
+	margin-bottom: 0px;
+}
+.sloj span{
+	font-size: 16px;
+}
+.ssaa h6{
+	font-size: 32px;
+}
+.ssaa span{
+	font-size: 20px;
+}
+.pdatb{
+	padding: 100px 0px;
+}
+.padmain{
+	padding: 70px 0px 100px 0px;
+}
+.padform{
+	padding: 00px 70px ;
+}
+.marto{
+	margin-top:24px;
+}
+.marBot{
+	margin-bottom: -20px
+}
+.contactForm{
+	padding: 0px 60px;
+	border-radius: 15px;
+}
+.navw{
+    padding: .5rem 1rem;	
+}
+.btnorg{
+	background:#FF7410;
+	color: white;
+	    width: 27%;
+	padding: 2px 6px;
+	    margin-left: -3px;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+.sls{
+	justify-content: center;
+	display: flex;
+	list-style-type: none;
+}
+.sls li{
+	padding: 0px 6px;
+}
+.padt140{
+	padding: 140px 0px;
+}
+.fnt400{
+	font-weight: 400
+}
+.wew{
+	width: 80%;
+}
+.saTr h6{
+	margin-top: 12px;
+	margin-bottom: 0px;
+	font-size: 18px;
+}
+.saTr small{
+	
+	font-size: 12px;
+}
+.laik{
+	font-size: 48px;
+	font-weight: 600
+}
+.psd{
+	padding: 0rem 3rem;
+}
+.backGr{
+	background:#F6F6F6;
+}
+.w50{
+	width: 50%;
+}
+.jsur{
+	    justify-content: space-between;
+}
+.padtt{
+	padding-top: 25px;
+}
+.w27{
+	width: 55%
+}
+.sas{
+	display: flex;
+	justify-content: space-between;
+}
+.w30 {
+    width: 32%;
+}
+.tright{
+	text-align: right
+}
+
+/*contact*/
+.colBLw{
+	color: #0D78FF;
+}
+.colY{
+	color: #FF7410;
+}
+.conTl{
+	font-size: 28px;
+	font-weight: 600
+}
+.conOR{
+	font-size: 20px;
+	font-weight: 600
+}
+.inPu{
+	    background-color: #80808052 !important;
+	color: black;
+	border-radius: 30px
+}
+.bordRatext{
+	border-radius: 15px !important;
+}
+.btnOR{
+	background:#FF7410;
+	color:white;
+	border-radius: 30px;
+	padding: 3px 15px
+}
+.btnNi{
+	    background: transparent;
+    padding: 0px;
+    border: none;
+}
+.fon404{
+	font-size: 32px;
+}
+@media only screen and (max-width:766px){
+	.tright{
+		text-align: center
+	}
+	.tcenter{
+		text-align: center;
+	}
+	.bordRigt{
+		border-right:none;
+		border-bottom: 1px solid #0000001c;
+	}
+	.w50{
+		width: 100%;
+	}
+	.fon404{
+		font-size: 18px;
+	}
+	.ssaa h6 {
+	    font-size: 18px;
+	}
+		.laik {
+	    font-size: 30px;
+	    font-weight: 600;
+	}
+	.pad123 {
+    	padding: 18px 0px 18px 0px;
+	}
+	.padto80 {
+	    padding: 30px 0px;
+	}
+	.sloj h6 {
+	    font-size: 14px;
+	}
+	.sloj span {
+	    font-size: 10px;
+	}
+	.psd{
+		padding: 0rem 0rem;
+	}
+	.padform {
+	    padding: 00px 15px;
+	}
+	.contactForm {
+	     padding: 0px 00px; 
+	    border-radius: 15px;
+	}
+
+}
+@media only screen and (max-width: 560px){
+	.mobVIew{
+		display: none;
+	}
+	.btnorg {
+    
+	    font-size: 12px;
+	}
+	.logi{
+		width: 28%
+	}
+	.padtt {
+	    padding-top: 11px;
+	}
+	.w27 {
+	    width: 44%;
+	}
+}
